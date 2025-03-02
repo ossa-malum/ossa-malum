@@ -1,4 +1,5 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&size=40&pause=1000&color=13DBF7&background=F4FFFF00&width=440&height=55&lines=Hi+there+%F0%9F%91%8B;I'm+Mal.)](https://git.io/typing-svg)
+<br/>
 
 <!--
 **ossa-malum/ossa-malum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
