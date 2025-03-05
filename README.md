@@ -9,7 +9,7 @@
 💬 Ask me about data collection and evaluation in social work 💓, books 📚, or cats 🐈
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,visualstudio,wordpress)](https://skillicons.dev)
 
 <!--
 **ossa-malum/ossa-malum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
